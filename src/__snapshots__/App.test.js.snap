@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    alt="Zeth"
+    className="card-img-top"
+    src="zeth.jpg"
+    style={
+      Object {
+        "height": "auto",
+        "width": "100%",
+      }
+    }
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      zeth-owen
+    </div>
+    <p
+      className="card-text"
+    >
+      Heyyy. My name is Zeth, and I am coding right now 🙂
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Go somewhere
+    </button>
+  </div>
+</div>
+`;
